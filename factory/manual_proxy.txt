@@ -29,6 +29,9 @@ cdninstagram.com
 disquscdn.com
 
 gist.github.com
+github.com
+github.io
+githubusercontent.com
 
 # 首页直连，但子域名需翻墙
 onedrive.live.com
@@ -119,3 +122,4 @@ news.iadsdk.apple.com
 youtubekids.com
 wikipedia.org
 hbo.com
+docker.com

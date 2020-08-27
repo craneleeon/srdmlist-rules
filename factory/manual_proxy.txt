@@ -123,3 +123,23 @@ youtubekids.com
 wikipedia.org
 hbo.com
 docker.com
+# apple
+ocsp.apple.com
+digicert.com
+entrust.net
+ocsp.verisign.net
+apps.apple.com
+itunes.apple.com
+blobstore.apple.com
+music.apple.com
+mzstatic.com
+itunes.apple.com
+icloud.com
+icloud-content.com
+me.com
+mzstatic.com
+akadns.net
+aaplimg.com
+cdn-apple.com
+apple.com
+apple-cloudkit.com

@@ -13,3 +13,5 @@ cabdirect.org
 ieee.org
 nature.com
 osapublishing.org
+douyin.com
+douyincdn.com

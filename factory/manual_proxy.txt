@@ -143,7 +143,3 @@ aaplimg.com
 cdn-apple.com
 apple.com
 apple-cloudkit.com
-# DNS
-8.8.8.8
-8.8.4.4
-1.1.1.1

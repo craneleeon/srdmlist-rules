@@ -15,3 +15,18 @@ nature.com
 osapublishing.org
 douyin.com
 douyincdn.com
+
+# DingTalk
+dingtalk.com
+dingtalk.net
+dingtalk.cn
+dingtalkapps.com
+aliyuncs.com
+mxhichina.com
+dingding.xin
+alibabausercontent.com
+dingteam.com
+
+# Wechat
+matchvs.com
+servicewechat.com

@@ -13,8 +13,12 @@ cabdirect.org
 ieee.org
 nature.com
 osapublishing.org
+
+# extended
 douyin.com
 douyincdn.com
+meituan.com
+ele.me
 
 # DingTalk
 dingtalk.com

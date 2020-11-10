@@ -18,6 +18,7 @@ osapublishing.org
 douyin.com
 douyincdn.com
 meituan.com
+meituan.net
 ele.me
 
 # DingTalk

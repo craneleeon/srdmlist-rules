@@ -20,6 +20,8 @@ douyincdn.com
 meituan.com
 meituan.net
 ele.me
+xhscdn.com
+xiaohongshu.com
 
 # DingTalk
 dingtalk.com

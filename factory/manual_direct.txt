@@ -22,6 +22,8 @@ meituan.net
 ele.me
 xhscdn.com
 xiaohongshu.com
+udacity.com
+shanghaidisneyresort.com
 
 # DingTalk
 dingtalk.com

@@ -134,8 +134,6 @@ blobstore.apple.com
 music.apple.com
 mzstatic.com
 itunes.apple.com
-icloud.com
-icloud-content.com
 me.com
 mzstatic.com
 akadns.net

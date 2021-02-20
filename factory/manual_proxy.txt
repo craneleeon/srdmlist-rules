@@ -77,6 +77,7 @@ pagead-tpc.l.google.com
 mobileads.google.com
 ads.google.com
 afd.l.google.com
+google.cn
 
 #175 华尔街邮报
 dowjones.com
